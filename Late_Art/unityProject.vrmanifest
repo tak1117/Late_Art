@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.late_art.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\tak20\\OneDrive\\ドキュメント\\GitHub\\Late_Art\\Late_Art\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Late_Art [Testing]"
+        }
+      }
+    }
+  ]
+}
